@@ -5,7 +5,7 @@
 </template>
 <script>
 export default {
-  name: 'BookLis',
+  name: 'BookList',
   data() {
     return {
       title: 'all books',
